@@ -1,0 +1,37 @@
+C:\tfs\TheNotebookProject\TheNoteBookProject\TheNoteBookProject\bin\Debug\TheNoteBookProject.exe.config
+C:\tfs\TheNotebookProject\TheNoteBookProject\TheNoteBookProject\bin\Debug\TheNoteBookProject.exe
+C:\tfs\TheNotebookProject\TheNoteBookProject\TheNoteBookProject\bin\Debug\TheNoteBookProject.pdb
+C:\tfs\TheNotebookProject\TheNoteBookProject\TheNoteBookProject\obj\Debug\TheNoteBookProject.ForgotPasswordForm.resources
+C:\tfs\TheNotebookProject\TheNoteBookProject\TheNoteBookProject\obj\Debug\TheNoteBookProject.LoginForm.resources
+C:\tfs\TheNotebookProject\TheNoteBookProject\TheNoteBookProject\obj\Debug\TheNoteBookProject.Properties.Resources.resources
+C:\tfs\TheNotebookProject\TheNoteBookProject\TheNoteBookProject\obj\Debug\TheNoteBookProject.SignUpForm.resources
+C:\tfs\TheNotebookProject\TheNoteBookProject\TheNoteBookProject\obj\Debug\TheNoteBookProject.csproj.GenerateResource.Cache
+C:\tfs\TheNotebookProject\TheNoteBookProject\TheNoteBookProject\obj\Debug\TheNoteBookProject.exe
+C:\tfs\TheNotebookProject\TheNoteBookProject\TheNoteBookProject\obj\Debug\TheNoteBookProject.pdb
+C:\tfs\TheNotebookProject\TheNoteBookProject\TheNoteBookProject\obj\Debug\TheNoteBookProject.csprojResolveAssemblyReference.cache
+C:\tfs\TheNotebookProject\TheNoteBookProject\TheNoteBookProject\obj\Debug\TheNoteBookProject.BaseForm.resources
+C:\tfs\TheNotebookProject\TheNoteBookProject\TheNoteBookProject\obj\Debug\TheNoteBookProject.AgendaForm.resources
+C:\tfs\TheNotebookProject\TheNoteBookProject\TheNoteBookProject\obj\Debug\TheNoteBookProject.ContacsForm.resources
+C:\tfs\TheNotebookProject\TheNoteBookProject\TheNoteBookProject\obj\Debug\TheNoteBookProject.DiaryForm.resources
+C:\tfs\TheNotebookProject\TheNoteBookProject\TheNoteBookProject\obj\Debug\TheNoteBookProject.OptionsForm.resources
+C:\tfs\TheNotebookProject\TheNoteBookProject\TheNoteBookProject\obj\Debug\TheNoteBookProject.SearchForm.resources
+C:\tfs\TheNotebookProject\TheNoteBookProject\TheNoteBookProject\obj\Debug\TheNoteBookProject.ReminderForm.resources
+D:\Projeler\Kurs Projeler\TheNoteBookProject\TheNoteBookProject\bin\Debug\TheNoteBookProject.exe.config
+D:\Projeler\Kurs Projeler\TheNoteBookProject\TheNoteBookProject\bin\Debug\TheNoteBookProject.exe
+D:\Projeler\Kurs Projeler\TheNoteBookProject\TheNoteBookProject\bin\Debug\TheNoteBookProject.pdb
+D:\Projeler\Kurs Projeler\TheNoteBookProject\TheNoteBookProject\obj\Debug\TheNoteBookProject.csprojAssemblyReference.cache
+D:\Projeler\Kurs Projeler\TheNoteBookProject\TheNoteBookProject\obj\Debug\TheNoteBookProject.AgendaForm.resources
+D:\Projeler\Kurs Projeler\TheNoteBookProject\TheNoteBookProject\obj\Debug\TheNoteBookProject.BaseForm.resources
+D:\Projeler\Kurs Projeler\TheNoteBookProject\TheNoteBookProject\obj\Debug\TheNoteBookProject.ContacsForm.resources
+D:\Projeler\Kurs Projeler\TheNoteBookProject\TheNoteBookProject\obj\Debug\TheNoteBookProject.DiaryForm.resources
+D:\Projeler\Kurs Projeler\TheNoteBookProject\TheNoteBookProject\obj\Debug\TheNoteBookProject.ForgotPasswordForm.resources
+D:\Projeler\Kurs Projeler\TheNoteBookProject\TheNoteBookProject\obj\Debug\TheNoteBookProject.LoginForm.resources
+D:\Projeler\Kurs Projeler\TheNoteBookProject\TheNoteBookProject\obj\Debug\TheNoteBookProject.OptionsForm.resources
+D:\Projeler\Kurs Projeler\TheNoteBookProject\TheNoteBookProject\obj\Debug\TheNoteBookProject.Properties.Resources.resources
+D:\Projeler\Kurs Projeler\TheNoteBookProject\TheNoteBookProject\obj\Debug\TheNoteBookProject.ReminderForm.resources
+D:\Projeler\Kurs Projeler\TheNoteBookProject\TheNoteBookProject\obj\Debug\TheNoteBookProject.SearchForm.resources
+D:\Projeler\Kurs Projeler\TheNoteBookProject\TheNoteBookProject\obj\Debug\TheNoteBookProject.SignUpForm.resources
+D:\Projeler\Kurs Projeler\TheNoteBookProject\TheNoteBookProject\obj\Debug\TheNoteBookProject.csproj.GenerateResource.cache
+D:\Projeler\Kurs Projeler\TheNoteBookProject\TheNoteBookProject\obj\Debug\TheNoteBookProject.csproj.CoreCompileInputs.cache
+D:\Projeler\Kurs Projeler\TheNoteBookProject\TheNoteBookProject\obj\Debug\TheNoteBookProject.exe
+D:\Projeler\Kurs Projeler\TheNoteBookProject\TheNoteBookProject\obj\Debug\TheNoteBookProject.pdb
